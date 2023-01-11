@@ -1,7 +1,8 @@
 PRUEBA DE PRACTICA2
 La mitad de los españoles desconoce en qué consisten las Zonas de Bajas Emisiones (ZBE), según ha revelado un estudio realizado por la compañía de movilidad Alphabet. Y eso que el pasado 1 de enero entró en vigor la nueva Ley de Cambio Climático que obligará a los municipios de más de 50.000 habitantes a implementar ZBE, impidiendo el acceso al centro urbano a los vehículos más
 
-Y POR LO TANTO ES TIENE QUE DAR CONFLICTO. NO ES LO MISMO QUE ESTA PUESTO DE ANTES Y POR LO TANTO….
+
+
  contaminantes. Esta medida afectará a más de 150 municipios españoles que se unirán a ciudades como Madrid y Barcelona en las que ya son una realidad. 
 
 AÑADIMOS MÁS LINEAS AL FICHERO Y COMPROBAMOS SI SE HA SUBIDO CORRECTAMENTE.
